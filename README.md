@@ -16,7 +16,7 @@ Pengenalan ke Logika Pemrograman(SELESAI)
   * COMPUTATIONAL THINKING
   * STUDI PEMROGRAMAN
 
-Belajar Dasar Git dan Github(37%)
+Belajar Dasar Git dan Github(66%)
 --
   * DASAR GIT
   * STUDI PENGALAMAN
