@@ -2,7 +2,9 @@
 Ini berisi progres belajarku di dicoding 
 
 21 Febuary 2023
+--
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (SELESAI)
+--
 -PERENCANAAN MODIFIKASI APLIKASI
 -KONSEP DASAR PEMROGRAMAN
 -MODIFIKASI PERANGKAT LUNAK
@@ -24,6 +26,7 @@ Belajar Dasar Git dan Github(37%)
 
 
 22 FEBRUARY 2023
+--
 
 
 Belajar Dasar Visualisasi Data(0%)
